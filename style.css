@@ -11,8 +11,6 @@
 
 .what {
     color: var(--light-text-color, #FFF);
-
-    /* h2 */
     font-family: Montserrat;
     font-size: 40px;
     font-style: normal;
