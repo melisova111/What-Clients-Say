@@ -34,27 +34,27 @@
 
 .cards {
     display: flex;
-align-items: center;
-gap: 30px;
+    align-items: center;
+    gap: 30px;
 }
 
 .card1 {
-padding: 30px 60px;
-flex-direction: column;
-align-items: flex-start;
-gap: 15px;
+    padding: 30px 60px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 15px;
     gap: 15px;
     background: var(--light-background-color, #FFF);
 }
 
 .card2 {
-padding: 30px 60px;
-flex-direction: column;
-align-items: flex-start;
-gap: 15px;
+    padding: 30px 60px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 15px;
     background: var(--light-background-color, #FFF);
 }
- 
+
 .txt2 {
     color: var(--text-color, #252B42);
     font-family: Montserrat;
