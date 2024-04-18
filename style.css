@@ -33,11 +33,6 @@
 }
 
 .cards {
-    /* display: inline-flex;
-    padding: 30px 60px;
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 15px; */
     display: flex;
 align-items: center;
 gap: 30px;
