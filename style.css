@@ -54,7 +54,7 @@ align-items: flex-start;
 gap: 15px;
     background: var(--light-background-color, #FFF);
 }
-
+ 
 .txt2 {
     color: var(--text-color, #252B42);
     font-family: Montserrat;
